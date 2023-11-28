@@ -1,2 +1,1 @@
-# DataScience-Course
-Coding Data Science course
+# case_study
